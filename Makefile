@@ -1,5 +1,5 @@
 PKG_NAME := humanfriendly
-URL = https://files.pythonhosted.org/packages/2e/d1/e0d8db85b71fc6e7d5be7d78bb5db64c63790aec45acef6578190d66c666/humanfriendly-8.1.tar.gz
+URL = https://files.pythonhosted.org/packages/6c/19/8e3b4c6fa7cca4788817db398c05274d98ecc6a35e0eaad2846fde90c863/humanfriendly-8.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
