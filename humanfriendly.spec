@@ -4,7 +4,7 @@
 #
 Name     : humanfriendly
 Version  : 8.2
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/6c/19/8e3b4c6fa7cca4788817db398c05274d98ecc6a35e0eaad2846fde90c863/humanfriendly-8.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/6c/19/8e3b4c6fa7cca4788817db398c05274d98ecc6a35e0eaad2846fde90c863/humanfriendly-8.2.tar.gz
 Summary  : Human friendly output for text interfaces using Python
