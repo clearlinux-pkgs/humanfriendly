@@ -4,7 +4,7 @@
 #
 Name     : humanfriendly
 Version  : 9.2
-Release  : 22
+Release  : 23
 URL      : https://files.pythonhosted.org/packages/24/ca/f3a75b50d978872f6551d72c9c76890d68c84f3ba210cdba5f409587a2fc/humanfriendly-9.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/24/ca/f3a75b50d978872f6551d72c9c76890d68c84f3ba210cdba5f409587a2fc/humanfriendly-9.2.tar.gz
 Summary  : Human friendly output for text interfaces using Python
